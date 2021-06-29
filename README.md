@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashabl0
+- 👋 Hi, I’m Shashank
 <!---
 - 👀 I’m interested in Machine learning, Data Analysis
 - 🌱 I’m currently learning 
